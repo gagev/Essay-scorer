@@ -1,3 +1,12 @@
+
+![bf Logo](black-friday.jpg)
+
+
+
+
+# Essay-scorer
+
+
 This project takes up the Hewlett Foundation's challenge to automatically score student essays. The data source is available here: https://www.kaggle.com/c/asap-aes
 
 The whole project was done with Pyspark.
